@@ -9,7 +9,7 @@ function "get_compressed_file" takes name of file as an argument and returns com
 function "get_decompressed_data" takes string, which was properly compress by functions above, as an argument and return decompressed string.
 
 *** Entry Point ***
-script "main.py" is a etry point.
+script "main.py" is an entry point.
 
 "main.py" takes 3 arguments:
   "method": comrpess or decompress.
